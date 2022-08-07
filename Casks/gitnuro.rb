@@ -1,6 +1,6 @@
 cask "gitnuro" do
   version "1.0.1"
-  sha256 "fc930b57f3fbb9b76bb5e45020f3dfe266fcbab5df23a173b543ce1ab87b0812"
+  sha256 "7ee70f698f32c17aafec727cd0eb26f2c8526c3a2b0538ef966230922a482130"
 
   name "Gitnuro"
   desc "FOSS multiplatform git client"
