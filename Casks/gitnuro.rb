@@ -5,7 +5,7 @@ cask "gitnuro" do
   name "Gitnuro"
   desc "FOSS multiplatform git client"
   homepage "https://gitnuro.jetpackduba.com"
-  url "https://github.com/JetpackDuba/homebrew-apps/releases/download/1.0.1/Gitnuro-macos-1.0.1.zip"
+  url "https://github.com/JetpackDuba/Gitnuro/releases/download/v1.0.1/Gitnuro-macos-1.0.1.zip"
   
   app "Gitnuro.app"
 end
