@@ -1,11 +1,11 @@
 cask "gitnuro" do
-  version "1.4.2"
-  sha256 "f931c788ab978f112db9c150f22697406e73b00667687e706086aab354a91086"
+  version "1.4.3"
+  sha256 "6d042805992ad0c63d5a8451fd92448e5861faeeb560f5b486b25c71ca27545c"
 
   name "Gitnuro"
   desc "FOSS multiplatform git client"
   homepage "https://gitnuro.com"
-  url "https://github.com/JetpackDuba/Gitnuro/releases/download/v1.4.2/Gitnuro_macos_1.4.2.zip"
+  url "https://github.com/JetpackDuba/Gitnuro/releases/download/v1.4.3/Gitnuro_macos_1.4.3.zip"
   
   app "Gitnuro.app"
 end
